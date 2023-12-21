@@ -2,6 +2,10 @@
 
 Welcome to the Live Score App, a dynamic and feature-rich football application developed with Flutter, designed to keep you connected with the latest happenings in the football world.
 
+
+
+[![Live Score App Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
 ## Features
 
 ### 1. News
